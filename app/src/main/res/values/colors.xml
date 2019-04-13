@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#A6D832</color>
+    <color name="background">#FFE4E1</color>
+    <color name="editbox">#D3C0C0</color>
+    <color name="background1">#237397</color>
+    <color name="textcolor">#000000</color>
+    <color name="mytherapy">#5BD16F</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

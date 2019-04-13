@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Medicine</string>
+    <string name="today">Today</string>
+    <string name="today_name">Name</string>
+    <string name="today_type">Type</string>
+    <string name="today_dose">Dose</string>
+    <string name="today_bp">BP</string>
+    <string name="today_hr">HR</string>
+    <string name="today_bloodsugar">Blood Sugar</string>
+    <string name="today_walking">Walking</string>
+    <string name="today_running">Running</string>
+    <string name="today_cycling">Cycling</string>
+    <string name="mytherapy"> MY Therapy</string>
+    <string name="by">by Thapar</string>
+    <string name="therapy">Therapy</string>
+    <string name="record">Record</string>
+    <string name="aboutus">About us</string>
+    <string name="about_us">Develop by</string>
+    <string name="record_detail">Detail</string>
+    <string name="setting">Settings</string>
+    <string name="setting_changepassword">Change Password</string>
+    <string name="setting_Alarm_volume">Alarm Volume</string>
+    <string name="setting_clear_record">Clear Record</string>
+    <string name="setting_My_Alarm">My Alarms</string>
+
+    <string name="current"> Current Medication Record</string>
+    <string name="changePassword">Change Password</string>
+    <string name="changepassword_Old">Old Password</string>
+    <string name="changepassword_New">New Password</string>
+    <string name="changepassword_Confirm">Confirm Password</string>
+    <string name="changepasswordbutton">Change Password</string>
+    <string name="myalarm">My Alarm</string>
+    <string name="harjinder">Harjinder Singh</string>
+    <string name="karan">Karan Gopal</string>
+    <string name="bhawna">Bhawna Thapar</string>
+    <string name="add_reminder">Add Your First Reminder</string>
+    <string name="regular">Planned</string>
+    <string name="regular_noofdays">No of days</string>
+    <string name="regularfrequency">Frequency</string>
+    <string name="regulardoze">Doze</string>
+    <string name="regularalarmringtone">Alarm ringtone</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_login">Already Registered?Login</string>
+    <string name="title_activity_toolbar">Toolbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_get_started">getStarted</string>
+    <string name="getstarted1">Simple yet powerful medication reminder</string>
+    <string name="getstarted2">Documentation of symptoms and measurements</string>
+    <string name="getstarted3">Already have an account</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+</resources>
